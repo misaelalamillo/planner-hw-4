@@ -1,0 +1,2 @@
+I created a planner that has the time, a box where the user can write and a save button. I am still trying to grasp the information of how jquery works. I did try to write var and fuctions in the html but it was not letting me, I tried creating a seperate index file but the same issue was happening
+I went ahead an did commentary on what equations I would have used and what was the intention of the website.
